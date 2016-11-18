@@ -17,8 +17,8 @@ Features:
 Mounting:
 ---------
 
-Single hole middle PCB ()
-Double holes end PCB ()
+Single hole middle PCB (at 14.5, 22)
+Double holes end PCB (at 76,4 & 76,40)
 
 Size:
 -----
