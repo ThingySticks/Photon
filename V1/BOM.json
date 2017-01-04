@@ -1,0 +1,10 @@
+{
+'Version':'1.0',
+'Product':'Photon Prototype PCB',
+parts: [
+
+{'name':'JP3', 'value':'USB connector', 'FarnellPart':'2476092', 'MfgPartNo':'MC000991', 'price':0.35,'comment':'Optional. Only needed if powering via USB A' },
+{'name':'IC1', 'value':'Photon'},
+{'name':'IC1a', 'value':'12 Way Header',  'FarnellPart':'1593465','MfgPartNo':'2212S-12SG-85', 'comment':'User supplied. Photon, Electron or Bluz', 'quantity':'2', 'price':0.0911'},
+
+]}
